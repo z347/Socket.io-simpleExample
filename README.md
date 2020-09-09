@@ -10,8 +10,9 @@ A simple example of use the socket.io with the React.
 
 ## Run Project Locallyc
 
-1. npm run start
-2. node server.js
+1. npm install
+2. npm run start
+3. node server.js
 
 ## Technologies Used
 
